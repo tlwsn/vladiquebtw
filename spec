@@ -5,12 +5,16 @@ Sergo_Cross
 Dev_Hub
 Ioan_Grozny
 Native_Pechenkov
+Ziggi_Shmiggi
+Test_Evlv
 Game_Birds
 Gosha_Fantom
 Salvatore_Giordano
-Tobey_Marshall
 Leonid_Litvinenko
 Diego_Serrano
+Tobey_Marshall
+Dwayne_Eagle
+Vincent_Vinograd
 Quentin_Qween
 Matthew_Taylor
 Wesley_Lewis
